@@ -20,7 +20,11 @@
 
 ## Deneyim Bilgisi 
 * Deneyim kısmında yeni deneyim ekleme,silme ve güncelleme işlemleri yapılmaktadır.
-* ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_03_14](https://github.com/user-attachments/assets/bcda2a8f-df82-4f0c-9cb0-439ca9caf637)
+ ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_03_14](https://github.com/user-attachments/assets/bcda2a8f-df82-4f0c-9cb0-439ca9caf637)
+  
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_03_21](https://github.com/user-attachments/assets/132ac3e6-5299-4387-86df-75d89a756a71)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_07_51](https://github.com/user-attachments/assets/cb52e409-042e-4ec4-aef8-a3e971ba9901)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_07_59](https://github.com/user-attachments/assets/878092a1-656e-4e98-a257-45afdc7876be)
 
 
 
