@@ -26,6 +26,14 @@
 ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_07_51](https://github.com/user-attachments/assets/cb52e409-042e-4ec4-aef8-a3e971ba9901)
 ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 17_07_59](https://github.com/user-attachments/assets/878092a1-656e-4e98-a257-45afdc7876be)
 
+## Eğitim Hayatım Bilgisi 
+* Eğitim Hayatım kısmında yeni Eğitim Hayatı ekleme,silme ve güncelleme işlemleri yapılmaktadır.
+
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_11_13](https://github.com/user-attachments/assets/e23b7270-289c-478d-9fb2-9c53f41c6395)
+
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_07_54](https://github.com/user-attachments/assets/d0bb026c-c022-4db1-8555-3c0d89bba733)
+
+
 
 
 
