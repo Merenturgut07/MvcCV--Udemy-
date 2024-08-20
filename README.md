@@ -46,6 +46,21 @@
 ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_12_19](https://github.com/user-attachments/assets/cdfa9358-0004-4b48-b94a-64b978cc49c6)
 
 
+## Hobi Bilgisi
+* Hobi Bilgisi kısmında sadece güncelleme yapılmaktadır.
+  
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_16_25](https://github.com/user-attachments/assets/069c7000-cb91-482e-82de-c6495b0a0d46)
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_16_13](https://github.com/user-attachments/assets/8922377f-6133-433a-b9c5-4bd91e012b76)
+
+## Sertifika Bilgisi
+* Sertifika Bilgisi kısmında  yeni sertifika,silme ve güncelleme işlemleri  yapılmaktadır yapılmaktadır
+  
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_18_36](https://github.com/user-attachments/assets/603365bc-1dde-432b-a8b7-1667d0b2973e)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_18_42](https://github.com/user-attachments/assets/34d30991-83b7-4a29-8308-e0799c212283)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_20_08](https://github.com/user-attachments/assets/1413dbc6-15a5-446e-8d59-2e48ba22c4aa)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_18_04](https://github.com/user-attachments/assets/be9dee31-60ab-4a27-b543-c0118f860dd9)
+
+
 
 
 
