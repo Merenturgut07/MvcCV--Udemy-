@@ -31,6 +31,10 @@
 
 ![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_11_13](https://github.com/user-attachments/assets/e23b7270-289c-478d-9fb2-9c53f41c6395)
 
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_14_51](https://github.com/user-attachments/assets/fa10aec3-029e-4247-b4e6-c8b6bbe68c1e)
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_14_57](https://github.com/user-attachments/assets/fa2e4002-25f7-49c9-84a1-1931760ea808)
+
+
 ![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_07_54](https://github.com/user-attachments/assets/d0bb026c-c022-4db1-8555-3c0d89bba733)
 
 ## Yetenek Bilgisi 
