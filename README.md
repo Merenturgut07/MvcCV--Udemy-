@@ -61,6 +61,13 @@
 ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_18_04](https://github.com/user-attachments/assets/be9dee31-60ab-4a27-b543-c0118f860dd9)
 
 
+## İletişim Kısımı
+*İletişim kısmından admine istek ve ricada bulunulmaktadır
+
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_23_41](https://github.com/user-attachments/assets/efaeac1f-a8ba-4f53-a224-ec8aed9e52ab)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_18_36](https://github.com/user-attachments/assets/dab8aee5-5621-4e57-bf12-779c2e1b642d)
+
+
 
 
 
