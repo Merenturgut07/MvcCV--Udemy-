@@ -33,6 +33,15 @@
 
 ![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_07_54](https://github.com/user-attachments/assets/d0bb026c-c022-4db1-8555-3c0d89bba733)
 
+## Yetenek Bilgisi 
+* Yetenek  kısmında yeni Yetenek ekleme,silme ve güncelleme işlemleri yapılmaktadır.
+
+  ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_12_28](https://github.com/user-attachments/assets/81371afa-ec6a-4f33-9bfe-1baa9b7e4e98)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_12_33](https://github.com/user-attachments/assets/31317b20-e815-4ea3-8aca-7f0690c38929)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_12_41](https://github.com/user-attachments/assets/bcc80412-71bb-4e88-88fd-8485ac2e1267)
+![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_12_19](https://github.com/user-attachments/assets/cdfa9358-0004-4b48-b94a-64b978cc49c6)
+
+
 
 
 
