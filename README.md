@@ -13,6 +13,18 @@
 
 ![Login 10 ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 15_20_33](https://github.com/user-attachments/assets/1e310166-be5c-4804-800e-c001946acaf5)
 
+
+## Admin Bilgileri
+* Yeni Admin Girişi var olan adminin bilgilerini gübncelleme işlemleri yapılmaktadır.
+  
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_27_54](https://github.com/user-attachments/assets/7d0a4a6c-fb8e-45af-a442-d91a45c17e91)
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_28_00](https://github.com/user-attachments/assets/af6d1e8b-8205-42c1-baff-a5557d4d7e70)
+![AdminLTE 3 _ Project Add ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 18_28_07](https://github.com/user-attachments/assets/57f18465-2dbb-47fc-8373-20a68be8cff8)
+
+
+
+
+
 ## Hakkımda Bilgisi
 * Admin panali kısmında sadece güncelleme yapılmaktadır.
 ![Resume - Start Bootstrap Theme ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 20 08 2024 16_57_16](https://github.com/user-attachments/assets/df33a306-2453-4b86-b747-76f0b0232b64)
