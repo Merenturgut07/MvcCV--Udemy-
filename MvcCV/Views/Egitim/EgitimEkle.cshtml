@@ -1,0 +1,46 @@
+﻿@model  MvcCV.Models.Entity.TblEgitim
+@{
+    ViewBag.Title = "EgitimEkle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Eğitim Ekleme Sayfası</h2>
+
+<br />
+<br />
+<br />
+
+<form method="post">
+    @Html.Label("Başlık")
+    @Html.TextBoxFor(x => x.Baslik, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Baslik, "", new { @style= "color:red" })
+    <br />
+    <br />
+    @Html.Label("AltBaslik1")
+    @Html.TextBoxFor(x => x.AltBaslik1, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.AltBaslik1,"", new { @style = "color:blue" })
+    <br />
+    <br />
+    @Html.Label("AltBaslik2")
+    @Html.TextBoxFor(x => x.AltBaslik2, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.AltBaslik2,"", new { @style = "color:dark" })
+    <br />
+    <br />
+    @Html.Label("Genel Not Ortalaması")
+    @Html.TextBoxFor(x => x.GNO, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.GNO, "", new { @style = "color:orange" })
+    <br />
+    <br />
+    @Html.Label("Tarih")
+    @Html.TextBoxFor(x => x.Tarih, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Tarih, "", new { @style = "color:brown" })
+    <br />
+    <br />
+
+    <button class="btn btn-info">Kaydet </button>
+
+</form>
+
+
+
+
